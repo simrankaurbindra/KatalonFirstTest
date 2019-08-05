@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>opening fb browser</description>
+   <name>tc1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87b1da74-a0f3-4096-afaa-cca72abe9d79</testCaseGuid>
+</TestCaseEntity>
